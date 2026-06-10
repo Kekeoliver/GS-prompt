@@ -21,4 +21,4 @@ Como Executar:
 Acesse o colab com o nosso link: https://colab.research.google.com/drive/141TjqAVR5cGIQC_DEWXHMfxDUsoKDbYz?usp=sharing
 
  Vídeo de Demonstração:
--
+https://youtu.be/qWIL0jtCIhQ
